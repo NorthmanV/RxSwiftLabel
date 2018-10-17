@@ -1,0 +1,6 @@
+module Pods_RxSwiftLabel {
+  umbrella header "Pods-RxSwiftLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
